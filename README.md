@@ -1,22 +1,18 @@
 # 👋 Hi, I'm Jeet
 
-🚀 Building AI, Robotics & Autonomous Systems
+🚀 Building AI, Robotics & Autonomous Systems  
 
-Currently working on a **Self Driving Car Project** using:
-- Arduino
-- Machine Learning
-- Computer Vision
-- LiDAR sensors
+Creator of **JeetLabs AI**
 
 ---
 
 ## 🔬 Projects
 
 🚗 Self Driving Car  
-Autonomous vehicle prototype with ML lane detection and obstacle detection.
+Autonomous vehicle prototype using Arduino, ML, and LiDAR.
 
 🤖 LiDAR Obstacle Detection  
-Using LiDAR sensors for real-time obstacle avoidance.
+Real-time obstacle detection system.
 
 ⚡ Encoder Speed Control  
 Precise motor control using encoder feedback.
@@ -37,8 +33,9 @@ Embedded Systems
 
 Portfolio: https://jeetlabs-ai.github.io  
 GitHub: https://github.com/jeetlabs-ai  
-YouTube: https://youtube.com/@jeetlabs-ai  
-Instagram: https://instagram.com/jeetlabs.ai
+YouTube: https://youtube.com/@jeetlabsai  
+Instagram: https://instagram.com/jeetlabs.ai  
+
 ---
 
 ## 📫 Contact
