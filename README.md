@@ -37,8 +37,8 @@ Embedded Systems
 
 Portfolio: https://jeetlabs-ai.github.io  
 GitHub: https://github.com/jeetlabs-ai  
-YouTube: https://youtube.com/@jeetlabsai  
-
+YouTube: https://youtube.com/@jeetlabs-ai  
+Instagram: https://instagram.com/jeetlabs.ai
 ---
 
 ## 📫 Contact
