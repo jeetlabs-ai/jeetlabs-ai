@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeet
 
-<!--
-**jeetlabs-ai/jeetlabs-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building AI, Robotics & Autonomous Systems
 
-Here are some ideas to get you started:
+Currently working on a **Self Driving Car Project** using:
+- Arduino
+- Machine Learning
+- Computer Vision
+- LiDAR sensors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Projects
+
+🚗 Self Driving Car  
+Autonomous vehicle prototype with ML lane detection and obstacle detection.
+
+🤖 LiDAR Obstacle Detection  
+Using LiDAR sensors for real-time obstacle avoidance.
+
+⚡ Encoder Speed Control  
+Precise motor control using encoder feedback.
+
+---
+
+## 🛠 Tech Stack
+
+Python  
+Machine Learning  
+Computer Vision  
+Arduino  
+Embedded Systems  
+
+---
+
+## 🌐 Links
+
+Portfolio: https://jeetlabs-ai.github.io  
+GitHub: https://github.com/jeetlabs-ai  
+YouTube: https://youtube.com/@jeetlabsai  
+
+---
+
+## 📫 Contact
+
+Email: jeetlabs.ai@gmail.com
